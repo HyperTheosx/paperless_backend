@@ -16,6 +16,7 @@
     <modules>
         <module>paperless-parent</module>
         <module>user-service</module>
+        <module>document-service</module>
     </modules>
 
     <properties>
